@@ -3,7 +3,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
+// bai nay loi fin fout,  phai dung cin cout
 int visit[100] ;
 queue <int> q;
 int a[101][101];
